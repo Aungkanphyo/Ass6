@@ -1,0 +1,167 @@
+{
+  "posts": [
+    {
+      "title": "Testing ",
+      "content": "testing",
+      "postImage": "https://img.etimg.com/thumb/width-640,height-480,imgsize-67262,resizemode-75,msid-92073673/magazines/panache/after-25-years-beloved-japanese-manga-one-piece-heads-into-final-chapter/one-piece.jpg",
+      "userId": 1,
+      "created_at": "an hour ago",
+      "id": 2
+    },
+    {
+      "title": "Testing",
+      "content": "testing",
+      "postImage": "https://vtv1.mediacdn.vn/zoom/640_400/2020/4/20/one-piece-anime-hiatus-15873776419971960853722.jpg",
+      "userId": 1,
+      "created_at": "an hour ago",
+      "id": 3
+    },
+    {
+      "title": "Trio of team LUFFY",
+      "content": "testing",
+      "postImage": "https://variety.com/wp-content/uploads/2023/08/ONEPIECE_Unit_10613RC.jpg?w=1000&h=563&crop=1",
+      "userId": 1,
+      "created_at": "37 minutes ago",
+      "id": 4
+    },
+    {
+      "title": "Testing",
+      "content": "testing",
+      "postImage": "https://assets-prd.ignimgs.com/2023/07/03/netflix-one-piece-1654901410673-1688416848504.jpg",
+      "userId": 1,
+      "created_at": "a few seconds ago",
+      "id": 5
+    },
+    {
+      "title": "Testing",
+      "content": "testing",
+      "postImage": "https://sm.ign.com/t/ign_es/screenshot/default/br_ca1f.1280.jpg",
+      "userId": 1,
+      "created_at": "a few seconds ago",
+      "id": 6
+    },
+    {
+      "title": "Testing",
+      "content": "testing",
+      "postImage": "https://cdn.atomix.vg/wp-content/uploads/2023/07/onepiece.jpg",
+      "userId": 1,
+      "created_at": "3 minutes ago",
+      "id": 8
+    },
+    {
+      "title": "Testing",
+      "content": "testing",
+      "postImage": "https://www.fayerwayer.com/resizer/zZ8Ok4en9ry2eUztC_DX09otVAc=/800x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/metroworldnews/TREMDE3HU5DYZFK3SCQWYL67Y4.JPG",
+      "userId": 1,
+      "created_at": "3 minutes ago",
+      "id": 9
+    },
+    {
+      "title": "Testing",
+      "content": "testing",
+      "postImage": "https://img.asmedia.epimg.net/resizer/9Nh3jc4_P1J04erlsdz8SwB_Q7k=/644x362/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/U6LVWIVDSRE6HIB5GQQQ3LSAPE.jpg",
+      "userId": 1,
+      "created_at": "4 minutes ago",
+      "id": 10
+    },
+    {
+      "title": "Testing",
+      "content": "testing",
+      "postImage": "https://animeindia.in/wp-content/uploads/2022/04/One-Piece-Watch-Order-1024x576.jpg",
+      "userId": 1,
+      "created_at": "4 minutes ago",
+      "id": 11
+    },
+    {
+      "title": "Testing",
+      "content": "testing",
+      "postImage": "https://m.media-amazon.com/images/M/MV5BMDE1NDY2ZGEtNmY1ZC00YWZmLTk2OWMtN2IxZjhkN2FiNGMxXkEyXkFqcGdeQWplZmZscA@@._V1_.jpg",
+      "userId": 1,
+      "created_at": "17 minutes ago",
+      "id": 12
+    },
+    {
+      "title": "Library",
+      "content": "testing",
+      "postImage": "https://wegotthiscovered.com/wp-content/uploads/2023/05/One-Piece-Manga.jpg",
+      "userId": 1,
+      "created_at": "24 minutes ago",
+      "id": 13
+    },
+    {
+      "title": "Testing",
+      "content": "testing",
+      "postImage": "https://cdn.vox-cdn.com/thumbor/Jp2TNtceVhXqk8GRePcjoVbv56I=/0x0:2000x800/1400x933/filters:focal(840x240:1160x560):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/72585995/5265_SeriesHeaders_OP_2000x800_wm.0.jpg",
+      "userId": 1,
+      "created_at": "33 minutes ago",
+      "id": 14
+    },
+    {
+      "title": "ONE PIECE",
+      "content": "testing",
+      "postImage": "https://cdn.vox-cdn.com/thumbor/hGZ2HuUzlrINdl6GAS8nV-aCs-s=/0x0:2880x1622/1200x800/filters:focal(1210x581:1670x1041)/cdn.vox-cdn.com/uploads/chorus_image/image/71862822/One_Piece_beginners_cover.0.jpg",
+      "userId": 2,
+      "created_at": "an hour ago",
+      "id": 15
+    },
+    {
+      "title": "Testing",
+      "content": "Hello word",
+      "postImage": "https://buffer.com/cdn-cgi/image/w=1000,fit=contain,q=90,f=auto/library/content/images/size/w1200/2023/10/free-images.jpg",
+      "userId": 2,
+      "created_at": "13 minutes ago",
+      "id": 16
+    }
+  ],
+  "users": [
+    {
+      "profile_url": "https://scontent.fmdl6-1.fna.fbcdn.net/v/t1.6435-9/103143591_265182034815562_2420538678397760891_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=7a1959&_nc_ohc=N4yYwtdPpscAX8kZRMk&_nc_ht=scontent.fmdl6-1.fna&oh=00_AfAsIQQ-0Mdq7jroinWjgS7pvXRo02V8SZtbKbCUKImt_Q&oe=659CE6B8",
+      "name": "Aung Kan Phyo",
+      "id": 1
+    },
+    {
+      "profile_url": "https://scontent-sin6-4.xx.fbcdn.net/v/t39.30808-6/374917333_962144421740315_1272923489465685232_n.jpg?stp=cp6_dst-jpg&_nc_cat=103&ccb=1-7&_nc_sid=dd5e9f&_nc_eui2=AeFrjPQYa1LvBYnYpta2DGN70_kE81Z--9nT-QTzVn772QYqpgZ9wvjP-Of1UJdzpTWJBg9-ljy5Tlu6RpdXnjrX&_nc_ohc=dBFgGLvfHJAAX-lCpM0&_nc_ht=scontent-sin6-4.xx&oh=00_AfCBxDLAV7tHzmCSySRdRNASQ-PG-wd5DEhicRYa9X5Esg&oe=657E0DCC",
+      "name": "Nang Saing Lin Kham",
+      "email": "nangsainglinkham1@gmail.com",
+      "phone": "123",
+      "confirm": "A@b123C2d",
+      "id": 2
+    },
+    {
+      "profile_url": "https://sb.kaleidousercontent.com/67418/1920x1545/c5f15ac173/samuel-raita-ridxdghg7pw-unsplash.jpg",
+      "name": "John",
+      "email": "example@gmail.com",
+      "phone": "123",
+      "confirm": "A@b123C2d",
+      "id": 3
+    },
+    {
+      "profile_url": "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aHVtYW58ZW58MHx8MHx8fDA%3D",
+      "name": "Smith",
+      "email": "smith@gmail.com",
+      "phone": "123",
+      "confirm": "A@b123C2d",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "text": "hello",
+      "postId": 3,
+      "userId": 3,
+      "id": 1
+    },
+    {
+      "text": "test",
+      "postId": 3,
+      "userId": 3,
+      "id": 2
+    },
+    {
+      "text": "hello",
+      "postId": 4,
+      "userId": 3,
+      "id": 3
+    }
+  ]
+}

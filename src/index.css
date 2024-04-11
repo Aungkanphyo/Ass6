@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    height: max-content;
+}
+nav a.active{
+    color: red;
+}
+.blur{
+    filter:blur(10px);
+}
+.notBlur{
+    filter: blur(0px);
+}
+.blurDetailPost{
+    filter: blur(10px);
+}
+/* comment box shadow effect */
+.shadow{
+    box-shadow: 2px 3px 30px gray;
+}
